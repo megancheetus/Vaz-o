@@ -4,7 +4,7 @@ A simple and intuitive desktop application built with Python and `ttkbootstrap` 
 
 This tool is designed to assist healthcare professionals by simplifying the calculation of drug dosages based on patient weight, desired dose, and solution concentration.
 
-![Screenshot of the application](https://ibb.co/6RpWJQ1z)
+![Screenshot of the application]([https://ibb.co/6RpWJQ1z](https://i.ibb.co/DD6Rgd8h/Screenshot.png))
 
 
 ## Features
